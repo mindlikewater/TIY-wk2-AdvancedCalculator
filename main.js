@@ -1,8 +1,3 @@
-#clear {
-  background-color: rgb(238,91, 0);
-  border: 1px solid rgb(0, 69, 133);
-  padding: 10px;
-}
 
 // var calcButton = document.getElementById("calculate-button");
 //
